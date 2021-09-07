@@ -1,0 +1,169 @@
+* {
+    font-family:Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+aside {
+    font-family: monospace;
+    font-size: 16px;
+    text-align: center;
+}
+
+.agrupar {
+    background: #ffffff;
+    border: 2px solid black;
+    width: 1000px;
+    margin: 10px auto;
+    padding: 4px;
+    text-align: center;
+}
+
+.agrupardos {
+    background: #dfe0e9;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+}
+
+.tiempo {
+    color: #636372;
+    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+
+.header {
+    padding: 4px;
+    font-weight: bold;
+    text-align: left;
+}
+
+.menu {
+    padding: 4px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 8px;
+}
+
+.menu li {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu li a:hover {
+    color: #636372;
+}
+
+.articulo1 {
+    margin: 15px;
+    background: #d1d3dd;
+    text-align: left;
+    padding: 10px;
+}
+
+.religion {
+    text-align: left;
+    padding: 8px;
+}
+
+.articulo2 {
+    margin: 15px;
+    background: #d1d3dd;
+    text-align: left;
+    padding: 10px;
+}
+
+.articulo3 {
+    background: #d1d3dd;
+    text-align: left;
+    padding: 10px;
+    margin: 15px;
+}
+
+.seccion {
+    margin: 18px;
+    width: 600px;
+    float: left;
+}
+
+.columna {
+    float: left;
+    width: 300px;
+    margin-bottom: 31px;
+    margin-top: 40px;
+    background: #c2c3c5;
+    font-family: monospace;
+    padding-bottom: 350px;
+    font-size: 17px;
+}
+
+.columna p {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    color: rgb(51, 51, 51);
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.columna time {
+    color: #636372;
+    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    text-align: center;
+}
+
+#doc {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+blockquote {
+    font-family: monospace;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+.linea {
+    clear: both;
+}
+
+.audio {
+    font-weight: bold;
+    padding-right: 50px;
+    margin-top: 415px;
+}
+.audio p {
+    margin-bottom: 8px;
+}
+
+.audio audio {
+    width: 200px;
+}
+
+#pie {
+    margin-top: 5px;
+    color: #636372;
+    font-size: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+.novedades{
+    color: #636372;
+    text-align: left;
+    font-size: 20px;
+}
+
+.fecha {
+    color: #696969;
+    text-align: left;
+    font-size: 12px;
+    font-weight: bold;
+}
